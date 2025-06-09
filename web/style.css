@@ -1,0 +1,61 @@
+
+.top{
+	display: flex;
+	
+}
+.logotxt{
+	margin: 75px 20px;
+	font-size: 50px;
+
+}
+.hen{
+	margin: 130px -320px;
+
+}
+.text{
+	margin: -170px 0px;
+	font-size: 22px;
+}
+.header-button{
+
+    border-radius: 10px;
+    background-color: #BC8F8F;
+    padding: 5px 12px;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Vesper Libre', serif;
+    text-decoration: none;
+}
+.characters{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.characters-item{
+    background: #fff;
+     border-radius: 0 10px;
+    text-align: center;
+    width: 25%;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+.characters-text{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Vesper Libre', serif;
+    font-size: 25px;
+    padding-top: 12px;
+}
+.characters-suptext{
+    font-size: 17px;
+}
+.characters-items{
+    display: flex;
+    justify-content: center;
+}
